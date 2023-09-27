@@ -13,7 +13,7 @@
 </div>
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div >
   <ul align="start">
     <summary><h2 style="display: inline-block">About me👨🏻‍💻</h2></summary>
   </ul>
@@ -23,7 +23,7 @@
 🎨 &nbsp;I have an strong visual sensitivity due to my designer background.\
 🌱 &nbsp;In my free time, I like doing ceramics or walking with my dog.\
 ✉️ &nbsp;You can shoot me an email at amadeotarantino@gmail.com\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1a8PMJieWXAonDvpHtD66KsZTnRWvgoKE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1a8PMJieWXAonDvpHtD66KsZTnRWvgoKE/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
