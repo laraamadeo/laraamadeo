@@ -6,8 +6,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Lara</h1></summary>
     <div align="start">
 <div align="end">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" hrel="https://www.linkedin.com/in/laraamadeotarantino/">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" hrel="mailto:amadeotarantino@gmail.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/laraamadeotarantino/">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:amadeotarantino@gmail.com">
   </div>
   </ul>
 </div>
